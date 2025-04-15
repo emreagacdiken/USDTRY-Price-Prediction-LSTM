@@ -1,10 +1,9 @@
-Bu proje, USD/TRY döviz kuru tahmini için yapay zeka tabanlı bir yaklaşım sunar.
+This project presents an AI-based approach for USD/TRY exchange rate forecasting.
 
-Zaman serisi verilerinin analizinde derin öğrenme tekniklerinin (RNN-LSTM) etkili bir şekilde kullanılabileceğini göstermiştir. 
+It has been demonstrated that deep learning techniques (RNN-LSTM) can be used effectively in the analysis of time series data.
 
-Model, 01-01-2020 ile 03-01-2025 tarihleri arasındaki döviz kuru verileri üzerinde eğitilmiş ve tahminler gerçekleştirilmiştir. 
+The model was trained on exchange rate data between 01-01-2020 and 03-01-2025 and predictions were made.
 
-Optuna ile yapılan hiperparametre optimizasyonu, modelin performansını artırmış ve tahmin doğruluğunu iyileştirmiştir. 
+Hyperparameter optimization with Optuna increased the performance of the model and improved the prediction accuracy.
 
-Modelin hem geçmiş verilere dayalı tahminler yapabilmesi hem de gelecekteki fiyatları öngörme kapasitesi finansal piyasalarda uygulanabilir bir çözüm sunduğunu göstermektedir.
-
+The model's ability to make both historical data-based predictions and future price prediction capacity shows that it offers a viable solution in financial markets.
